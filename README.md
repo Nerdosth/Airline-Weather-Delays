@@ -10,5 +10,5 @@ As new employees at a travel agency, we have been asked to create a database tha
 Airline Delays: 
 https://www.kaggle.com/datasets/ryanjt/airline-delay-cause
 
-Weather API: 
-https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted
+Weather Events: 
+https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events
