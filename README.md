@@ -6,5 +6,5 @@ Data Sources:
 Airline Delays: 
 https://www.kaggle.com/datasets/ryanjt/airline-delay-cause
 
-Weather API: 
-https://www.ncdc.noaa.gov/cdo-web/webservices/v2#gettingStarted
+Weather Events: 
+https://www.kaggle.com/datasets/sobhanmoosavi/us-weather-events
