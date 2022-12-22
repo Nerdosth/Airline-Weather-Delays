@@ -1,421 +1,421 @@
-,airport_code,airport_name,state,city
-0,ABE, Lehigh Valley International, PA,Allentown/Bethlehem/Easton
-1,ABY, Southwest Georgia Regional, GA,Albany
-2,ACK, Nantucket Memorial, MA,Nantucket
-3,AEX, Alexandria International, LA,Alexandria
-4,AGS, Augusta Regional at Bush Field, GA,Augusta
-5,ALB, Albany International, NY,Albany
-6,ATL, Hartsfield-Jackson Atlanta International, GA,Atlanta
-7,ATW, Appleton International, WI,Appleton
-8,AUS, Austin - Bergstrom International, TX,Austin
-9,AVL, Asheville Regional, NC,Asheville
-10,AZO, Kalamazoo/Battle Creek International, MI,Kalamazoo
-11,BGM, Greater Binghamton/Edwin A. Link Field, NY,Binghamton
-12,BGR, Bangor International, ME,Bangor
-13,BHM, Birmingham-Shuttlesworth International, AL,Birmingham
-14,BMI, Central Il Regional Airport at Bloomington, IL,Bloomington/Normal
-15,BNA, Nashville International, TN,Nashville
-16,BOS, Logan International, MA,Boston
-17,BQK, Brunswick Golden Isles, GA,Brunswick
-18,BTR, Baton Rouge Metropolitan/Ryan Field, LA,Baton Rouge
-19,BTV, Burlington International, VT,Burlington
-20,BUF, Buffalo Niagara International, NY,Buffalo
-21,BWI, Baltimore/Washington International Thurgood Marshall, MD,Baltimore
-22,CAE, Columbia Metropolitan, SC,Columbia
-23,CHA, Lovell Field, TN,Chattanooga
-24,CHO, Charlottesville Albemarle, VA,Charlottesville
-25,CHS, Charleston AFB/International, SC,Charleston
-26,CID, The Eastern Iowa, IA,Cedar Rapids/Iowa City
-27,CLE, Cleveland-Hopkins International, OH,Cleveland
-28,CLT, Charlotte Douglas International, NC,Charlotte
-29,CMH, John Glenn Columbus International, OH,Columbus
-30,CRW, Yeager, WV,Charleston/Dunbar
-31,CSG, Columbus Airport, GA,Columbus
-32,CVG, Cincinnati/Northern Kentucky International, OH,Cincinnati
-33,CWA, Central Wisconsin, WI,Mosinee
-34,DAY, James M Cox/Dayton International, OH,Dayton
-35,DCA, Ronald Reagan Washington National, DC,Washington
-36,DHN, Dothan Regional, AL,Dothan
-37,DLH, Duluth International, MN,Duluth
-38,DSM, Des Moines International, IA,Des Moines
-39,DTW, Detroit Metro Wayne County, MI,Detroit
-40,EVV, Evansville Regional, IN,Evansville
-41,EWR, Newark Liberty International, NJ,Newark
-42,EYW, Key West International, FL,Key West
-43,FAY, Fayetteville Regional/Grannis Field, NC,Fayetteville
-44,FSD, Joe Foss Field, SD,Sioux Falls
-45,FWA, Fort Wayne International, IN,Fort Wayne
-46,GNV, Gainesville Regional, FL,Gainesville
-47,GPT, Gulfport-Biloxi International, MS,Gulfport/Biloxi
-48,GRR, Gerald R. Ford International, MI,Grand Rapids
-49,GSO, Piedmont Triad International, NC,Greensboro/High Point
-50,GSP, Greenville-Spartanburg International, SC,Greer
-51,GTR, Golden Triangle Regional, MS,Columbus
-52,HPN, Westchester County, NY,White Plains
-53,ILM, Wilmington International, NC,Wilmington
-54,IND, Indianapolis International, IN,Indianapolis
-55,ITH, Ithaca Tompkins Regional, NY,Ithaca/Cortland
-56,JFK, John F. Kennedy International, NY,New York
-57,LAN, Capital Region International, MI,Lansing
-58,LEX, Blue Grass, KY,Lexington
-59,LFT, Lafayette Regional Paul Fournet Field, LA,Lafayette
-60,LGA, LaGuardia, NY,New York
-61,MBS, MBS International, MI,Saginaw/Bay City/Midland
-62,MCI, Kansas City International, MO,Kansas City
-63,MEM, Memphis International, TN,Memphis
-64,MGM, Montgomery Regional, AL,Montgomery
-65,MKE, General Mitchell International, WI,Milwaukee
-66,MLI, Quad City International, IL,Moline
-67,MLU, Monroe Regional, LA,Monroe
-68,MOB, Mobile Regional, AL,Mobile
-69,MOT, Minot International, ND,Minot
-70,MSN, Dane County Regional-Truax Field, WI,Madison
-71,MSP, Minneapolis-St Paul International, MN,Minneapolis
-72,MYR, Myrtle Beach International, SC,Myrtle Beach
-73,OAJ, Albert J Ellis, NC,Jacksonville/Camp Lejeune
-74,OMA, Eppley Airfield, NE,Omaha
-75,ORD, Chicago O'Hare International, IL,Chicago
-76,ORF, Norfolk International, VA,Norfolk
-77,ORH, Worcester Regional, MA,Worcester
-78,PIT, Pittsburgh International, PA,Pittsburgh
-79,PVD, Theodore Francis Green State, RI,Providence
-80,RDU, Raleigh-Durham International, NC,Raleigh/Durham
-81,RIC, Richmond International, VA,Richmond
-82,ROA, Roanoke Blacksburg Regional Woodrum Field, VA,Roanoke
-83,ROC, Greater Rochester International, NY,Rochester
-84,RST, Rochester International, MN,Rochester
-85,SAV, Savannah/Hilton Head International, GA,Savannah
-86,SBN, South Bend International, IN,South Bend
-87,SDF, Louisville Muhammad Ali International, KY,Louisville
-88,SGF, Springfield-Branson National, MO,Springfield
-89,SHV, Shreveport Regional, LA,Shreveport
-90,STL, St Louis Lambert International, MO,St. Louis
-91,SYR, Syracuse Hancock International, NY,Syracuse
-92,TLH, Tallahassee International, FL,Tallahassee
-93,TRI, Tri Cities, TN,Bristol/Johnson City/Kingsport
-94,TVC, Cherry Capital, MI,Traverse City
-95,TYS, McGhee Tyson, TN,Knoxville
-96,VLD, Valdosta Regional, GA,Valdosta
-97,XNA, Northwest Arkansas Regional, AR,Fayetteville
-98,ABQ, Albuquerque International Sunport, NM,Albuquerque
-99,AMA, Rick Husband Amarillo International, TX,Amarillo
-100,ANC, Ted Stevens Anchorage International, AK,Anchorage
-101,AVP, Wilkes Barre Scranton International, PA,Scranton/Wilkes-Barre
-102,BDL, Bradley International, CT,Hartford
-103,BOI, Boise Air Terminal, ID,Boise
-104,BUR, Bob Hope, CA,Burbank
-105,BZN, Bozeman Yellowstone International, MT,Bozeman
-106,COS, City of Colorado Springs Municipal, CO,Colorado Springs
-107,DEN, Denver International, CO,Denver
-108,DFW, Dallas/Fort Worth International, TX,Dallas/Fort Worth
-109,EGE, Eagle County Regional, CO,Eagle
-110,ELP, El Paso International, TX,El Paso
-111,EUG, Mahlon Sweet Field, OR,Eugene
-112,FAT, Fresno Yosemite International, CA,Fresno
-113,FCA, Glacier Park International, MT,Kalispell
-114,FLL, Fort Lauderdale-Hollywood International, FL,Fort Lauderdale
-115,GEG, Spokane International, WA,Spokane
-116,HNL, Daniel K Inouye International, HI,Honolulu
-117,IAD, Washington Dulles International, DC,Washington
-118,IAH, George Bush Intercontinental/Houston, TX,Houston
-119,ICT, Wichita Dwight D Eisenhower National, KS,Wichita
-120,JAX, Jacksonville International, FL,Jacksonville
-121,KOA, Ellison Onizuka Kona International at Keahole, HI,Kona
-122,LAS, McCarran International, NV,Las Vegas
-123,LAX, Los Angeles International, CA,Los Angeles
-124,LBB, Lubbock Preston Smith International, TX,Lubbock
-125,LIH, Lihue Airport, HI,Lihue
-126,LIT, Bill and Hillary Clinton Nat Adams Field, AR,Little Rock
-127,MCO, Orlando International, FL,Orlando
-128,MDT, Harrisburg International, PA,Harrisburg
-129,MFE, McAllen Miller International, TX,Mission/McAllen/Edinburg
-130,MIA, Miami International, FL,Miami
-131,MSO, Missoula International, MT,Missoula
-132,MSY, Louis Armstrong New Orleans International, LA,New Orleans
-133,OGG, Kahului Airport, HI,Kahului
-134,OKC, Will Rogers World, OK,Oklahoma City
-135,ONT, Ontario International, CA,Ontario
-136,PBI, Palm Beach International, FL,West Palm Beach/Palm Beach
-137,PDX, Portland International, OR,Portland
-138,PHL, Philadelphia International, PA,Philadelphia
-139,PHX, Phoenix Sky Harbor International, AZ,Phoenix
-140,PNS, Pensacola International, FL,Pensacola
-141,PSP, Palm Springs International, CA,Palm Springs
-142,PWM, Portland International Jetport, ME,Portland
-143,RNO, Reno/Tahoe International, NV,Reno
-144,RSW, Southwest Florida International, FL,Fort Myers
-145,SAN, San Diego International, CA,San Diego
-146,SAT, San Antonio International, TX,San Antonio
-147,SBA, Santa Barbara Municipal, CA,Santa Barbara
-148,SEA, Seattle/Tacoma International, WA,Seattle
-149,SFO, San Francisco International, CA,San Francisco
-150,SJC, Norman Y. Mineta San Jose International, CA,San Jose
-151,SJU, Luis Munoz Marin International, PR,San Juan
-152,SLC, Salt Lake City International, UT,Salt Lake City
-153,SMF, Sacramento International, CA,Sacramento
-154,SNA, John Wayne Airport-Orange County, CA,Santa Ana
-155,SRQ, Sarasota/Bradenton International, FL,Sarasota/Bradenton
-156,STT, Cyril E King, VI,Charlotte Amalie
-157,STX, Henry E. Rohlsen, VI,Christiansted
-158,TPA, Tampa International, FL,Tampa
-159,TUL, Tulsa International, OK,Tulsa
-160,TUS, Tucson International, AZ,Tucson
-161,VPS, Eglin AFB Destin Fort Walton Beach, FL,Valparaiso
-162,ADK, Adak, AK,Adak Island
-163,ADQ, Kodiak Airport, AK,Kodiak
-164,AKN, King Salmon Airport, AK,King Salmon
-165,BET, Bethel Airport, AK,Bethel
-166,BRW, Wiley Post/Will Rogers Memorial, AK,Barrow
-167,CDV, Merle K Mudhole Smith, AK,Cordova
-168,DAL, Dallas Love Field, TX,Dallas
-169,DLG, Dillingham Airport, AK,Dillingham
-170,FAI, Fairbanks International, AK,Fairbanks
-171,GST, Gustavus Airport, AK,Gustavus
-172,JNU, Juneau International, AK,Juneau
-173,KTN, Ketchikan International, AK,Ketchikan
-174,OAK, Metropolitan Oakland International, CA,Oakland
-175,OME, Nome Airport, AK,Nome
-176,OTZ, Ralph Wien Memorial, AK,Kotzebue
-177,PAE, Snohomish County, WA,Everett
-178,PSG, Petersburg James A Johnson, AK,Petersburg
-179,SCC, Deadhorse Airport, AK,Deadhorse
-180,SIT, Sitka Rocky Gutierrez, AK,Sitka
-181,WRG, Wrangell Airport, AK,Wrangell
-182,YAK, Yakutat Airport, AK,Yakutat
-183,BQN, Rafael Hernandez, PR,Aguadilla
-184,HYA, Barnstable Municipal-Boardman/Polando Field, MA,Hyannis
-185,MVY, Martha's Vineyard Airport, MA,Martha's Vineyard
-186,PSE, Mercedita, PR,Ponce
-187,BIL, Billings Logan International, MT,Billings
-188,DAB, Daytona Beach International, FL,Daytona Beach
-189,ECP, Northwest Florida Beaches International, FL,Panama City
-190,FAR, Hector International, ND,Fargo
-191,GRB, Green Bay Austin Straubel International, WI,Green Bay
-192,HOU, William P Hobby, TX,Houston
-193,HSV, Huntsville International-Carl T Jones Field, AL,Huntsville
-194,IDA, Idaho Falls Regional, ID,Idaho Falls
-195,JAN, Jackson Medgar Wiley Evers International, MS,Jackson/Vicksburg
-196,MDW, Chicago Midway International, IL,Chicago
-197,MLB, Melbourne International, FL,Melbourne
-198,BIS, Bismarck Municipal, ND,Bismarck/Mandan
-199,BKG, Branson Airport, MO,Branson
-200,DRO, Durango La Plata County, CO,Durango
-201,GJT, Grand Junction Regional, CO,Grand Junction
-202,HRL, Valley International, TX,Harlingen/San Benito
-203,ILG, New Castle, DE,Wilmington
-204,ISP, Long Island MacArthur, NY,Islip
-205,SWF, New York Stewart International, NY,Newburgh/Poughkeepsie
-206,TTN, Trenton Mercer, NJ,Trenton
-207,AZA, Phoenix - Mesa Gateway, AZ,Phoenix
-208,BLI, Bellingham International, WA,Bellingham
-209,BLV, Scott AFB/MidAmerica, IL,Belleville
-210,CAK, Akron-Canton Regional, OH,Akron
-211,CKB, North Central West Virginia, WV,Clarksburg/Fairmont
-212,ELM, Elmira/Corning Regional, NY,Elmira/Corning
-213,FNT, Bishop International, MI,Flint
-214,GFK, Grand Forks International, ND,Grand Forks
-215,GRI, Central Nebraska Regional, NE,Grand Island
-216,GTF, Great Falls International, MT,Great Falls
-217,HGR, Hagerstown Regional-Richard A. Henson Field, MD,Hagerstown
-218,HTS, Tri-State/Milton J. Ferguson Field, WV,Ashland
-219,IAG, Niagara Falls International, NY,Niagara Falls
-220,LCK, Rickenbacker International, OH,Columbus
-221,LRD, Laredo International, TX,Laredo
-222,MFR, Rogue Valley International - Medford, OR,Medford
-223,MRY, Monterey Regional, CA,Monterey
-224,OWB, Owensboro Daviess County Regional, KY,Owensboro
-225,PBG, Plattsburgh International, NY,Plattsburgh
-226,PGD, Punta Gorda Airport, FL,Punta Gorda
-227,PIA, General Downing - Peoria International, IL,Peoria
-228,PIE, St Pete Clearwater International, FL,St. Petersburg
-229,PSC, Tri Cities, WA,Pasco/Kennewick/Richland
-230,PSM, Portsmouth International at Pease, NH,Portsmouth
-231,PVU, Provo Municipal, UT,Provo
-232,RAP, Rapid City Regional, SD,Rapid City
-233,RDM, Roberts Field, OR,Bend/Redmond
-234,RFD, Chicago/Rockford International, IL,Rockford
-235,SCE, University Park, PA,State College
-236,SCK, Stockton Metropolitan, CA,Stockton
-237,SFB, Orlando Sanford International, FL,Sanford
-238,SMX, Santa Maria Public/Capt. G. Allan Hancock Field, CA,Santa Maria
-239,SPI, Abraham Lincoln Capital, IL,Springfield
-240,STC, St. Cloud Regional, MN,St. Cloud
-241,TOL, Toledo Express, OH,Toledo
-242,USA, Concord Padgett Regional, NC,Concord
-243,ITO, Hilo International, HI,Hilo
-244,LGB, Long Beach Airport, CA,Long Beach
-245,PPG, Pago Pago International, TT,Pago Pago
-246,ABI, Abilene Regional, TX,Abilene
-247,ACT, Waco Regional, TX,Waco
-248,ALO, Waterloo Regional, IA,Waterloo
-249,BFL, Meadows Field, CA,Bakersfield
-250,BPT, Jack Brooks Regional, TX,Beaumont/Port Arthur
-251,BRO, Brownsville South Padre Island International, TX,Brownsville
-252,CLL, Easterwood Field, TX,College Station/Bryan
-253,CMI, University of Illinois/Willard, IL,Champaign/Urbana
-254,COU, Columbia Regional, MO,Columbia
-255,CRP, Corpus Christi International, TX,Corpus Christi
-256,DBQ, Dubuque Regional, IA,Dubuque
-257,DRT, Del Rio International, TX,Del Rio
-258,FSM, Fort Smith Regional, AR,Fort Smith
-259,GCK, Garden City Regional, KS,Garden City
-260,GGG, East Texas Regional, TX,Longview
-261,GRK, Robert Gray AAF, TX,Killeen
-262,HHH, Hilton Head Airport, SC,Hilton Head
-263,LAW, Lawton-Fort Sill Regional, OK,Lawton/Fort Sill
-264,LCH, Lake Charles Regional, LA,Lake Charles
-265,LSE, La Crosse Regional, WI,La Crosse
-266,MAF, Midland International Air and Space Port, TX,Midland/Odessa
-267,MHK, Manhattan Regional, KS,Manhattan/Ft. Riley
-268,MQT, Sawyer International, MI,Marquette
-269,SBP, San Luis County Regional, CA,San Luis Obispo
-270,SJT, San Angelo Regional/Mathis Field, TX,San Angelo
-271,SPS, Sheppard AFB/Wichita Falls Municipal, TX,Wichita Falls
-272,STS, Charles M. Schulz - Sonoma County, CA,Santa Rosa
-273,SWO, Stillwater Regional, OK,Stillwater
-274,TXK, Texarkana Regional-Webb Field, AR,Texarkana
-275,TYR, Tyler Pounds Regional, TX,Tyler
-276,ACY, Atlantic City International, NJ,Atlantic City
-277,LBE, Arnold Palmer Regional, PA,Latrobe
-278,MHT, Manchester-Boston Regional, NH,Manchester
-279,EWN, Coastal Carolina Regional, NC,New Bern/Morehead/Beaufort
-280,LYH, Lynchburg Regional/Preston Glenn Field, VA,Lynchburg
-281,PHF, Newport News/Williamsburg International, VA,Newport News/Williamsburg
-282,ABR, Aberdeen Regional, SD,Aberdeen
-283,ACV, California Redwood Coast Humboldt County, CA,Arcata/Eureka
-284,ALS, San Luis Valley Regional/Bergman Field, CO,Alamosa
-285,APN, Alpena County Regional, MI,Alpena
-286,ASE, Aspen Pitkin County Sardy Field, CO,Aspen
-287,BFF, Western Neb. Regional/William B. Heilig Field, NE,Scottsbluff
-288,BJI, Bemidji Regional, MN,Bemidji
-289,BRD, Brainerd Lakes Regional, MN,Brainerd
-290,BTM, Bert Mooney, MT,Butte
-291,CDC, Cedar City Regional, UT,Cedar City
-292,CGI, Cape Girardeau Regional, MO,Cape Girardeau
-293,CIU, Chippewa County International, MI,Sault Ste. Marie
-294,CMX, Houghton County Memorial, MI,Hancock/Houghton
-295,CNY, Canyonlands Field, UT,Moab
-296,COD, Yellowstone Regional, WY,Cody
-297,CPR, Casper/Natrona County International, WY,Casper
-298,CYS, Cheyenne Regional/Jerry Olson Field, WY,Cheyenne
-299,DDC, Dodge City Regional, KS,Dodge City
-300,DEC, Decatur Airport, IL,Decatur
-301,DIK, Dickinson - Theodore Roosevelt Regional, ND,Dickinson
-302,DVL, Devils Lake Regional, ND,Devils Lake
-303,EAR, Kearney Regional, NE,Kearney
-304,EAU, Chippewa Valley Regional, WI,Eau Claire
-305,EKO, Elko Regional, NV,Elko
-306,ESC, Delta County, MI,Escanaba
-307,FLG, Flagstaff Pulliam, AZ,Flagstaff
-308,FOD, Fort Dodge Regional, IA,Fort Dodge
-309,GCC, Gillette Campbell County, WY,Gillette
-310,GUC, Gunnison-Crested Butte Regional, CO,Gunnison
-311,HDN, Yampa Valley, CO,Hayden
-312,HIB, Range Regional, MN,Hibbing
-313,HLN, Helena Regional, MT,Helena
-314,HOB, Lea County Regional, NM,Hobbs
-315,HYS, Hays Regional, KS,Hays
-316,IMT, Ford, MI,Iron Mountain/Kingsfd
-317,INL, Falls International Einarson Field, MN,International Falls
-318,JLN, Joplin Regional, MO,Joplin
-319,JMS, Jamestown Regional, ND,Jamestown
-320,JST, John Murtha Johnstown-Cambria County, PA,Johnstown
-321,LAR, Laramie Regional, WY,Laramie
-322,LBF, North Platte Regional Airport Lee Bird Field, NE,North Platte
-323,LBL, Liberal Mid-America Regional, KS,Liberal
-324,LNK, Lincoln Airport, NE,Lincoln
-325,LWB, Greenbrier Valley, WV,Lewisburg
-326,LWS, Lewiston Nez Perce County, ID,Lewiston
-327,MCW, Mason City Municipal, IA,Mason City
-328,MEI, Key Field, MS,Meridian
-329,MKG, Muskegon County, MI,Muskegon
-330,MTJ, Montrose Regional, CO,Montrose/Delta
-331,OGS, Ogdensburg International, NY,Ogdensburg
-332,OTH, Southwest Oregon Regional, OR,North Bend/Coos Bay
-333,PAH, Barkley Regional, KY,Paducah
-334,PIB, Hattiesburg-Laurel Regional, MS,Hattiesburg/Laurel
-335,PIH, Pocatello Regional, ID,Pocatello
-336,PLN, Pellston Regional Airport of Emmet County, MI,Pellston
-337,PRC, Prescott Regional Ernest A Love Field, AZ,Prescott
-338,PUB, Pueblo Memorial, CO,Pueblo
-339,RDD, Redding Municipal, CA,Redding
-340,RHI, Rhinelander/Oneida County, WI,Rhinelander
-341,RIW, Riverton Regional, WY,Riverton/Lander
-342,RKS, Southwest Wyoming Regional, WY,Rock Springs
-343,ROW, Roswell International Air Center, NM,Roswell
-344,SAF, Santa Fe Municipal, NM,Santa Fe
-345,SGU, St George Regional, UT,St. George
-346,SHD, Shenandoah Valley Regional, VA,Staunton
-347,SHR, Sheridan County, WY,Sheridan
-348,SLN, Salina Regional, KS,Salina
-349,SUN, Friedman Memorial, ID,Sun Valley/Hailey/Ketchum
-350,SUX, Sioux Gateway Brig Gen Bud Day Field, IA,Sioux City
-351,TBN, Waynesville-St. Robert Regional Forney Field, MO,Fort Leonard Wood
-352,TWF, Joslin Field - Magic Valley Regional, ID,Twin Falls
-353,VCT, Victoria Regional, TX,Victoria
-354,VEL, Vernal Regional, UT,Vernal
-355,WYS, Yellowstone, MT,West Yellowstone
-356,XWA, Williston Basin International, ND,Williston
-357,YUM, Yuma MCAS/Yuma International, AZ,Yuma
-358,ALW, Walla Walla Regional, WA,Walla Walla
-359,EAT, Pangborn Memorial, WA,Wenatchee
-360,PUW, Pullman Moscow Regional, WA,Pullman
-361,YKM, Yakima Air Terminal/McAllister Field, WA,Yakima
-362,GUM, Guam International, TT,Guam
-363,SPN, Francisco C. Ada Saipan International, TT,Saipan
-364,JAC, Jackson Hole, WY,Jackson
-365,OGD, Ogden-Hinckley, UT,Ogden
-366,ERI, Erie International/Tom Ridge Field, PA,Erie
-367,BIH, Bishop Airport, CA,Bishop
-368,ATY, Watertown Regional, SD,Watertown
-369,PIR, Pierre Regional, SD,Pierre
-370,HVN, Tweed New Haven, CT,New Haven
-371,CDB, Cold Bay Airport, AK,Cold Bay
-372,IPT, Williamsport Regional, PA,Williamsport
-373,BFM, Mobile Downtown, AL,Mobile
-374,MMH, Mammoth Lakes Airport, CA,Mammoth Lakes
-375,UIN, Quincy Regional-Baldwin Field, IL,Quincy
-376,PGV, Pitt Greenville, NC,Greenville
-377,ISN, Sloulin Field International, ND,Williston
-378,ART, Watertown International, NY,Watertown
-379,YNG, Youngstown-Warren Regional, OH,Youngstown/Warren
-380,IFP, Laughlin/Bullhead International, AZ,Bullhead City
-381,FNL, Northern Colorado Regional, CO,Fort Collins/Loveland
-382,UST, Northeast Florida Regional, FL,St. Augustine
-383,TKI, Tokeen Airport, AK,Tokeen
-384,ENV, Wendover Airport, UT,Wendover
-385,EFD, Ellington, TX,Houston
-386,CLD, McClellan-Palomar, CA,Carlsbad
-387,CEC, Jack McNamara Field, CA,Crescent City
-388,MCN, Middle Georgia Regional, GA,Macon
-389,CIC, Chico Municipal, CA,Chico
-390,FOE, Topeka Regional, KS,Topeka
-391,LMT, Crater Lake Klamath Regional, OR,Klamath Falls
-392,MOD, Modesto City-County-Harry Sham Field, CA,Modesto
-393,IYK, Inyokern Airport, CA,Inyokern
-394,IPL, Imperial County, CA,El Centro
-395,TUP, Tupelo Regional, MS,Tupelo
-396,UTM, Tunica Municipal, MS,Tunica
-397,TEX, Telluride Regional, CO,Telluride
-398,FLO, Florence Regional, SC,Florence
-399,MWH, Grant County International, WA,Moses Lake
-400,OXR, Oxnard, CA,Oxnard/Ventura
-401,PFN, Bay County, FL,Panama City
-402,PMD, Palmdale USAF Plant 42, CA,Palmdale
-403,SLE, McNary Field, OR,Salem
-404,SOP, Moore County, NC,Pinehurst/Southern Pines
-405,APF, Naples Municipal, FL,Naples
-406,MTH, The Florida Keys Marathon International, FL,Marathon
-407,MKC, Charles B. Wheeler Downtown, MO,Kansas City
-408,GLH, Greenville Mid Delta, MS,Greenville
-409,ISO, Kinston Regional Jetport at Stallings Field, NC,Kinston
-410,RCA, Ellsworth AFB, SD,Rapid City
-411,HKY, Hickory Regional, NC,Hickory
-412,VIS, Visalia Municipal, CA,Visalia
-413,FMN, Four Corners Regional, NM,Farmington
-414,LNY, Lanai Airport, HI,Lanai
-415,MKK, Molokai, HI,Hoolehua
-416,ILE, Skylark Field, TX,Killeen
-417,SKA, Fairchild AFB, WA,Spokane
-418,CBM, Columbus AFB, MS,Columbus
-419,DUT, Unalaska Airport, AK,Unalaska
+airport_code,airport_name,state,city
+ABE, Lehigh Valley International, PA,Allentown/Bethlehem/Easton
+ABY, Southwest Georgia Regional, GA,Albany
+ACK, Nantucket Memorial, MA,Nantucket
+AEX, Alexandria International, LA,Alexandria
+AGS, Augusta Regional at Bush Field, GA,Augusta
+ALB, Albany International, NY,Albany
+ATL, Hartsfield-Jackson Atlanta International, GA,Atlanta
+ATW, Appleton International, WI,Appleton
+AUS, Austin - Bergstrom International, TX,Austin
+AVL, Asheville Regional, NC,Asheville
+AZO, Kalamazoo/Battle Creek International, MI,Kalamazoo
+BGM, Greater Binghamton/Edwin A. Link Field, NY,Binghamton
+BGR, Bangor International, ME,Bangor
+BHM, Birmingham-Shuttlesworth International, AL,Birmingham
+BMI, Central Il Regional Airport at Bloomington, IL,Bloomington/Normal
+BNA, Nashville International, TN,Nashville
+BOS, Logan International, MA,Boston
+BQK, Brunswick Golden Isles, GA,Brunswick
+BTR, Baton Rouge Metropolitan/Ryan Field, LA,Baton Rouge
+BTV, Burlington International, VT,Burlington
+BUF, Buffalo Niagara International, NY,Buffalo
+BWI, Baltimore/Washington International Thurgood Marshall, MD,Baltimore
+CAE, Columbia Metropolitan, SC,Columbia
+CHA, Lovell Field, TN,Chattanooga
+CHO, Charlottesville Albemarle, VA,Charlottesville
+CHS, Charleston AFB/International, SC,Charleston
+CID, The Eastern Iowa, IA,Cedar Rapids/Iowa City
+CLE, Cleveland-Hopkins International, OH,Cleveland
+CLT, Charlotte Douglas International, NC,Charlotte
+CMH, John Glenn Columbus International, OH,Columbus
+CRW, Yeager, WV,Charleston/Dunbar
+CSG, Columbus Airport, GA,Columbus
+CVG, Cincinnati/Northern Kentucky International, OH,Cincinnati
+CWA, Central Wisconsin, WI,Mosinee
+DAY, James M Cox/Dayton International, OH,Dayton
+DCA, Ronald Reagan Washington National, DC,Washington
+DHN, Dothan Regional, AL,Dothan
+DLH, Duluth International, MN,Duluth
+DSM, Des Moines International, IA,Des Moines
+DTW, Detroit Metro Wayne County, MI,Detroit
+EVV, Evansville Regional, IN,Evansville
+EWR, Newark Liberty International, NJ,Newark
+EYW, Key West International, FL,Key West
+FAY, Fayetteville Regional/Grannis Field, NC,Fayetteville
+FSD, Joe Foss Field, SD,Sioux Falls
+FWA, Fort Wayne International, IN,Fort Wayne
+GNV, Gainesville Regional, FL,Gainesville
+GPT, Gulfport-Biloxi International, MS,Gulfport/Biloxi
+GRR, Gerald R. Ford International, MI,Grand Rapids
+GSO, Piedmont Triad International, NC,Greensboro/High Point
+GSP, Greenville-Spartanburg International, SC,Greer
+GTR, Golden Triangle Regional, MS,Columbus
+HPN, Westchester County, NY,White Plains
+ILM, Wilmington International, NC,Wilmington
+IND, Indianapolis International, IN,Indianapolis
+ITH, Ithaca Tompkins Regional, NY,Ithaca/Cortland
+JFK, John F. Kennedy International, NY,New York
+LAN, Capital Region International, MI,Lansing
+LEX, Blue Grass, KY,Lexington
+LFT, Lafayette Regional Paul Fournet Field, LA,Lafayette
+LGA, LaGuardia, NY,New York
+MBS, MBS International, MI,Saginaw/Bay City/Midland
+MCI, Kansas City International, MO,Kansas City
+MEM, Memphis International, TN,Memphis
+MGM, Montgomery Regional, AL,Montgomery
+MKE, General Mitchell International, WI,Milwaukee
+MLI, Quad City International, IL,Moline
+MLU, Monroe Regional, LA,Monroe
+MOB, Mobile Regional, AL,Mobile
+MOT, Minot International, ND,Minot
+MSN, Dane County Regional-Truax Field, WI,Madison
+MSP, Minneapolis-St Paul International, MN,Minneapolis
+MYR, Myrtle Beach International, SC,Myrtle Beach
+OAJ, Albert J Ellis, NC,Jacksonville/Camp Lejeune
+OMA, Eppley Airfield, NE,Omaha
+ORD, Chicago O'Hare International, IL,Chicago
+ORF, Norfolk International, VA,Norfolk
+ORH, Worcester Regional, MA,Worcester
+PIT, Pittsburgh International, PA,Pittsburgh
+PVD, Theodore Francis Green State, RI,Providence
+RDU, Raleigh-Durham International, NC,Raleigh/Durham
+RIC, Richmond International, VA,Richmond
+ROA, Roanoke Blacksburg Regional Woodrum Field, VA,Roanoke
+ROC, Greater Rochester International, NY,Rochester
+RST, Rochester International, MN,Rochester
+SAV, Savannah/Hilton Head International, GA,Savannah
+SBN, South Bend International, IN,South Bend
+SDF, Louisville Muhammad Ali International, KY,Louisville
+SGF, Springfield-Branson National, MO,Springfield
+SHV, Shreveport Regional, LA,Shreveport
+STL, St Louis Lambert International, MO,St. Louis
+SYR, Syracuse Hancock International, NY,Syracuse
+TLH, Tallahassee International, FL,Tallahassee
+TRI, Tri Cities, TN,Bristol/Johnson City/Kingsport
+TVC, Cherry Capital, MI,Traverse City
+TYS, McGhee Tyson, TN,Knoxville
+VLD, Valdosta Regional, GA,Valdosta
+XNA, Northwest Arkansas Regional, AR,Fayetteville
+ABQ, Albuquerque International Sunport, NM,Albuquerque
+AMA, Rick Husband Amarillo International, TX,Amarillo
+ANC, Ted Stevens Anchorage International, AK,Anchorage
+AVP, Wilkes Barre Scranton International, PA,Scranton/Wilkes-Barre
+BDL, Bradley International, CT,Hartford
+BOI, Boise Air Terminal, ID,Boise
+BUR, Bob Hope, CA,Burbank
+BZN, Bozeman Yellowstone International, MT,Bozeman
+COS, City of Colorado Springs Municipal, CO,Colorado Springs
+DEN, Denver International, CO,Denver
+DFW, Dallas/Fort Worth International, TX,Dallas/Fort Worth
+EGE, Eagle County Regional, CO,Eagle
+ELP, El Paso International, TX,El Paso
+EUG, Mahlon Sweet Field, OR,Eugene
+FAT, Fresno Yosemite International, CA,Fresno
+FCA, Glacier Park International, MT,Kalispell
+FLL, Fort Lauderdale-Hollywood International, FL,Fort Lauderdale
+GEG, Spokane International, WA,Spokane
+HNL, Daniel K Inouye International, HI,Honolulu
+IAD, Washington Dulles International, DC,Washington
+IAH, George Bush Intercontinental/Houston, TX,Houston
+ICT, Wichita Dwight D Eisenhower National, KS,Wichita
+JAX, Jacksonville International, FL,Jacksonville
+KOA, Ellison Onizuka Kona International at Keahole, HI,Kona
+LAS, McCarran International, NV,Las Vegas
+LAX, Los Angeles International, CA,Los Angeles
+LBB, Lubbock Preston Smith International, TX,Lubbock
+LIH, Lihue Airport, HI,Lihue
+LIT, Bill and Hillary Clinton Nat Adams Field, AR,Little Rock
+MCO, Orlando International, FL,Orlando
+MDT, Harrisburg International, PA,Harrisburg
+MFE, McAllen Miller International, TX,Mission/McAllen/Edinburg
+MIA, Miami International, FL,Miami
+MSO, Missoula International, MT,Missoula
+MSY, Louis Armstrong New Orleans International, LA,New Orleans
+OGG, Kahului Airport, HI,Kahului
+OKC, Will Rogers World, OK,Oklahoma City
+ONT, Ontario International, CA,Ontario
+PBI, Palm Beach International, FL,West Palm Beach/Palm Beach
+PDX, Portland International, OR,Portland
+PHL, Philadelphia International, PA,Philadelphia
+PHX, Phoenix Sky Harbor International, AZ,Phoenix
+PNS, Pensacola International, FL,Pensacola
+PSP, Palm Springs International, CA,Palm Springs
+PWM, Portland International Jetport, ME,Portland
+RNO, Reno/Tahoe International, NV,Reno
+RSW, Southwest Florida International, FL,Fort Myers
+SAN, San Diego International, CA,San Diego
+SAT, San Antonio International, TX,San Antonio
+SBA, Santa Barbara Municipal, CA,Santa Barbara
+SEA, Seattle/Tacoma International, WA,Seattle
+SFO, San Francisco International, CA,San Francisco
+SJC, Norman Y. Mineta San Jose International, CA,San Jose
+SJU, Luis Munoz Marin International, PR,San Juan
+SLC, Salt Lake City International, UT,Salt Lake City
+SMF, Sacramento International, CA,Sacramento
+SNA, John Wayne Airport-Orange County, CA,Santa Ana
+SRQ, Sarasota/Bradenton International, FL,Sarasota/Bradenton
+STT, Cyril E King, VI,Charlotte Amalie
+STX, Henry E. Rohlsen, VI,Christiansted
+TPA, Tampa International, FL,Tampa
+TUL, Tulsa International, OK,Tulsa
+TUS, Tucson International, AZ,Tucson
+VPS, Eglin AFB Destin Fort Walton Beach, FL,Valparaiso
+ADK, Adak, AK,Adak Island
+ADQ, Kodiak Airport, AK,Kodiak
+AKN, King Salmon Airport, AK,King Salmon
+BET, Bethel Airport, AK,Bethel
+BRW, Wiley Post/Will Rogers Memorial, AK,Barrow
+CDV, Merle K Mudhole Smith, AK,Cordova
+DAL, Dallas Love Field, TX,Dallas
+DLG, Dillingham Airport, AK,Dillingham
+FAI, Fairbanks International, AK,Fairbanks
+GST, Gustavus Airport, AK,Gustavus
+JNU, Juneau International, AK,Juneau
+KTN, Ketchikan International, AK,Ketchikan
+OAK, Metropolitan Oakland International, CA,Oakland
+OME, Nome Airport, AK,Nome
+OTZ, Ralph Wien Memorial, AK,Kotzebue
+PAE, Snohomish County, WA,Everett
+PSG, Petersburg James A Johnson, AK,Petersburg
+SCC, Deadhorse Airport, AK,Deadhorse
+SIT, Sitka Rocky Gutierrez, AK,Sitka
+WRG, Wrangell Airport, AK,Wrangell
+YAK, Yakutat Airport, AK,Yakutat
+BQN, Rafael Hernandez, PR,Aguadilla
+HYA, Barnstable Municipal-Boardman/Polando Field, MA,Hyannis
+MVY, Martha's Vineyard Airport, MA,Martha's Vineyard
+PSE, Mercedita, PR,Ponce
+BIL, Billings Logan International, MT,Billings
+DAB, Daytona Beach International, FL,Daytona Beach
+ECP, Northwest Florida Beaches International, FL,Panama City
+FAR, Hector International, ND,Fargo
+GRB, Green Bay Austin Straubel International, WI,Green Bay
+HOU, William P Hobby, TX,Houston
+HSV, Huntsville International-Carl T Jones Field, AL,Huntsville
+IDA, Idaho Falls Regional, ID,Idaho Falls
+JAN, Jackson Medgar Wiley Evers International, MS,Jackson/Vicksburg
+MDW, Chicago Midway International, IL,Chicago
+MLB, Melbourne International, FL,Melbourne
+BIS, Bismarck Municipal, ND,Bismarck/Mandan
+BKG, Branson Airport, MO,Branson
+DRO, Durango La Plata County, CO,Durango
+GJT, Grand Junction Regional, CO,Grand Junction
+HRL, Valley International, TX,Harlingen/San Benito
+ILG, New Castle, DE,Wilmington
+ISP, Long Island MacArthur, NY,Islip
+SWF, New York Stewart International, NY,Newburgh/Poughkeepsie
+TTN, Trenton Mercer, NJ,Trenton
+AZA, Phoenix - Mesa Gateway, AZ,Phoenix
+BLI, Bellingham International, WA,Bellingham
+BLV, Scott AFB/MidAmerica, IL,Belleville
+CAK, Akron-Canton Regional, OH,Akron
+CKB, North Central West Virginia, WV,Clarksburg/Fairmont
+ELM, Elmira/Corning Regional, NY,Elmira/Corning
+FNT, Bishop International, MI,Flint
+GFK, Grand Forks International, ND,Grand Forks
+GRI, Central Nebraska Regional, NE,Grand Island
+GTF, Great Falls International, MT,Great Falls
+HGR, Hagerstown Regional-Richard A. Henson Field, MD,Hagerstown
+HTS, Tri-State/Milton J. Ferguson Field, WV,Ashland
+IAG, Niagara Falls International, NY,Niagara Falls
+LCK, Rickenbacker International, OH,Columbus
+LRD, Laredo International, TX,Laredo
+MFR, Rogue Valley International - Medford, OR,Medford
+MRY, Monterey Regional, CA,Monterey
+OWB, Owensboro Daviess County Regional, KY,Owensboro
+PBG, Plattsburgh International, NY,Plattsburgh
+PGD, Punta Gorda Airport, FL,Punta Gorda
+PIA, General Downing - Peoria International, IL,Peoria
+PIE, St Pete Clearwater International, FL,St. Petersburg
+PSC, Tri Cities, WA,Pasco/Kennewick/Richland
+PSM, Portsmouth International at Pease, NH,Portsmouth
+PVU, Provo Municipal, UT,Provo
+RAP, Rapid City Regional, SD,Rapid City
+RDM, Roberts Field, OR,Bend/Redmond
+RFD, Chicago/Rockford International, IL,Rockford
+SCE, University Park, PA,State College
+SCK, Stockton Metropolitan, CA,Stockton
+SFB, Orlando Sanford International, FL,Sanford
+SMX, Santa Maria Public/Capt. G. Allan Hancock Field, CA,Santa Maria
+SPI, Abraham Lincoln Capital, IL,Springfield
+STC, St. Cloud Regional, MN,St. Cloud
+TOL, Toledo Express, OH,Toledo
+USA, Concord Padgett Regional, NC,Concord
+ITO, Hilo International, HI,Hilo
+LGB, Long Beach Airport, CA,Long Beach
+PPG, Pago Pago International, TT,Pago Pago
+ABI, Abilene Regional, TX,Abilene
+ACT, Waco Regional, TX,Waco
+ALO, Waterloo Regional, IA,Waterloo
+BFL, Meadows Field, CA,Bakersfield
+BPT, Jack Brooks Regional, TX,Beaumont/Port Arthur
+BRO, Brownsville South Padre Island International, TX,Brownsville
+CLL, Easterwood Field, TX,College Station/Bryan
+CMI, University of Illinois/Willard, IL,Champaign/Urbana
+COU, Columbia Regional, MO,Columbia
+CRP, Corpus Christi International, TX,Corpus Christi
+DBQ, Dubuque Regional, IA,Dubuque
+DRT, Del Rio International, TX,Del Rio
+FSM, Fort Smith Regional, AR,Fort Smith
+GCK, Garden City Regional, KS,Garden City
+GGG, East Texas Regional, TX,Longview
+GRK, Robert Gray AAF, TX,Killeen
+HHH, Hilton Head Airport, SC,Hilton Head
+LAW, Lawton-Fort Sill Regional, OK,Lawton/Fort Sill
+LCH, Lake Charles Regional, LA,Lake Charles
+LSE, La Crosse Regional, WI,La Crosse
+MAF, Midland International Air and Space Port, TX,Midland/Odessa
+MHK, Manhattan Regional, KS,Manhattan/Ft. Riley
+MQT, Sawyer International, MI,Marquette
+SBP, San Luis County Regional, CA,San Luis Obispo
+SJT, San Angelo Regional/Mathis Field, TX,San Angelo
+SPS, Sheppard AFB/Wichita Falls Municipal, TX,Wichita Falls
+STS, Charles M. Schulz - Sonoma County, CA,Santa Rosa
+SWO, Stillwater Regional, OK,Stillwater
+TXK, Texarkana Regional-Webb Field, AR,Texarkana
+TYR, Tyler Pounds Regional, TX,Tyler
+ACY, Atlantic City International, NJ,Atlantic City
+LBE, Arnold Palmer Regional, PA,Latrobe
+MHT, Manchester-Boston Regional, NH,Manchester
+EWN, Coastal Carolina Regional, NC,New Bern/Morehead/Beaufort
+LYH, Lynchburg Regional/Preston Glenn Field, VA,Lynchburg
+PHF, Newport News/Williamsburg International, VA,Newport News/Williamsburg
+ABR, Aberdeen Regional, SD,Aberdeen
+ACV, California Redwood Coast Humboldt County, CA,Arcata/Eureka
+ALS, San Luis Valley Regional/Bergman Field, CO,Alamosa
+APN, Alpena County Regional, MI,Alpena
+ASE, Aspen Pitkin County Sardy Field, CO,Aspen
+BFF, Western Neb. Regional/William B. Heilig Field, NE,Scottsbluff
+BJI, Bemidji Regional, MN,Bemidji
+BRD, Brainerd Lakes Regional, MN,Brainerd
+BTM, Bert Mooney, MT,Butte
+CDC, Cedar City Regional, UT,Cedar City
+CGI, Cape Girardeau Regional, MO,Cape Girardeau
+CIU, Chippewa County International, MI,Sault Ste. Marie
+CMX, Houghton County Memorial, MI,Hancock/Houghton
+CNY, Canyonlands Field, UT,Moab
+COD, Yellowstone Regional, WY,Cody
+CPR, Casper/Natrona County International, WY,Casper
+CYS, Cheyenne Regional/Jerry Olson Field, WY,Cheyenne
+DDC, Dodge City Regional, KS,Dodge City
+DEC, Decatur Airport, IL,Decatur
+DIK, Dickinson - Theodore Roosevelt Regional, ND,Dickinson
+DVL, Devils Lake Regional, ND,Devils Lake
+EAR, Kearney Regional, NE,Kearney
+EAU, Chippewa Valley Regional, WI,Eau Claire
+EKO, Elko Regional, NV,Elko
+ESC, Delta County, MI,Escanaba
+FLG, Flagstaff Pulliam, AZ,Flagstaff
+FOD, Fort Dodge Regional, IA,Fort Dodge
+GCC, Gillette Campbell County, WY,Gillette
+GUC, Gunnison-Crested Butte Regional, CO,Gunnison
+HDN, Yampa Valley, CO,Hayden
+HIB, Range Regional, MN,Hibbing
+HLN, Helena Regional, MT,Helena
+HOB, Lea County Regional, NM,Hobbs
+HYS, Hays Regional, KS,Hays
+IMT, Ford, MI,Iron Mountain/Kingsfd
+INL, Falls International Einarson Field, MN,International Falls
+JLN, Joplin Regional, MO,Joplin
+JMS, Jamestown Regional, ND,Jamestown
+JST, John Murtha Johnstown-Cambria County, PA,Johnstown
+LAR, Laramie Regional, WY,Laramie
+LBF, North Platte Regional Airport Lee Bird Field, NE,North Platte
+LBL, Liberal Mid-America Regional, KS,Liberal
+LNK, Lincoln Airport, NE,Lincoln
+LWB, Greenbrier Valley, WV,Lewisburg
+LWS, Lewiston Nez Perce County, ID,Lewiston
+MCW, Mason City Municipal, IA,Mason City
+MEI, Key Field, MS,Meridian
+MKG, Muskegon County, MI,Muskegon
+MTJ, Montrose Regional, CO,Montrose/Delta
+OGS, Ogdensburg International, NY,Ogdensburg
+OTH, Southwest Oregon Regional, OR,North Bend/Coos Bay
+PAH, Barkley Regional, KY,Paducah
+PIB, Hattiesburg-Laurel Regional, MS,Hattiesburg/Laurel
+PIH, Pocatello Regional, ID,Pocatello
+PLN, Pellston Regional Airport of Emmet County, MI,Pellston
+PRC, Prescott Regional Ernest A Love Field, AZ,Prescott
+PUB, Pueblo Memorial, CO,Pueblo
+RDD, Redding Municipal, CA,Redding
+RHI, Rhinelander/Oneida County, WI,Rhinelander
+RIW, Riverton Regional, WY,Riverton/Lander
+RKS, Southwest Wyoming Regional, WY,Rock Springs
+ROW, Roswell International Air Center, NM,Roswell
+SAF, Santa Fe Municipal, NM,Santa Fe
+SGU, St George Regional, UT,St. George
+SHD, Shenandoah Valley Regional, VA,Staunton
+SHR, Sheridan County, WY,Sheridan
+SLN, Salina Regional, KS,Salina
+SUN, Friedman Memorial, ID,Sun Valley/Hailey/Ketchum
+SUX, Sioux Gateway Brig Gen Bud Day Field, IA,Sioux City
+TBN, Waynesville-St. Robert Regional Forney Field, MO,Fort Leonard Wood
+TWF, Joslin Field - Magic Valley Regional, ID,Twin Falls
+VCT, Victoria Regional, TX,Victoria
+VEL, Vernal Regional, UT,Vernal
+WYS, Yellowstone, MT,West Yellowstone
+XWA, Williston Basin International, ND,Williston
+YUM, Yuma MCAS/Yuma International, AZ,Yuma
+ALW, Walla Walla Regional, WA,Walla Walla
+EAT, Pangborn Memorial, WA,Wenatchee
+PUW, Pullman Moscow Regional, WA,Pullman
+YKM, Yakima Air Terminal/McAllister Field, WA,Yakima
+GUM, Guam International, TT,Guam
+SPN, Francisco C. Ada Saipan International, TT,Saipan
+JAC, Jackson Hole, WY,Jackson
+OGD, Ogden-Hinckley, UT,Ogden
+ERI, Erie International/Tom Ridge Field, PA,Erie
+BIH, Bishop Airport, CA,Bishop
+ATY, Watertown Regional, SD,Watertown
+PIR, Pierre Regional, SD,Pierre
+HVN, Tweed New Haven, CT,New Haven
+CDB, Cold Bay Airport, AK,Cold Bay
+IPT, Williamsport Regional, PA,Williamsport
+BFM, Mobile Downtown, AL,Mobile
+MMH, Mammoth Lakes Airport, CA,Mammoth Lakes
+UIN, Quincy Regional-Baldwin Field, IL,Quincy
+PGV, Pitt Greenville, NC,Greenville
+ISN, Sloulin Field International, ND,Williston
+ART, Watertown International, NY,Watertown
+YNG, Youngstown-Warren Regional, OH,Youngstown/Warren
+IFP, Laughlin/Bullhead International, AZ,Bullhead City
+FNL, Northern Colorado Regional, CO,Fort Collins/Loveland
+UST, Northeast Florida Regional, FL,St. Augustine
+TKI, Tokeen Airport, AK,Tokeen
+ENV, Wendover Airport, UT,Wendover
+EFD, Ellington, TX,Houston
+CLD, McClellan-Palomar, CA,Carlsbad
+CEC, Jack McNamara Field, CA,Crescent City
+MCN, Middle Georgia Regional, GA,Macon
+CIC, Chico Municipal, CA,Chico
+FOE, Topeka Regional, KS,Topeka
+LMT, Crater Lake Klamath Regional, OR,Klamath Falls
+MOD, Modesto City-County-Harry Sham Field, CA,Modesto
+IYK, Inyokern Airport, CA,Inyokern
+IPL, Imperial County, CA,El Centro
+TUP, Tupelo Regional, MS,Tupelo
+UTM, Tunica Municipal, MS,Tunica
+TEX, Telluride Regional, CO,Telluride
+FLO, Florence Regional, SC,Florence
+MWH, Grant County International, WA,Moses Lake
+OXR, Oxnard, CA,Oxnard/Ventura
+PFN, Bay County, FL,Panama City
+PMD, Palmdale USAF Plant 42, CA,Palmdale
+SLE, McNary Field, OR,Salem
+SOP, Moore County, NC,Pinehurst/Southern Pines
+APF, Naples Municipal, FL,Naples
+MTH, The Florida Keys Marathon International, FL,Marathon
+MKC, Charles B. Wheeler Downtown, MO,Kansas City
+GLH, Greenville Mid Delta, MS,Greenville
+ISO, Kinston Regional Jetport at Stallings Field, NC,Kinston
+RCA, Ellsworth AFB, SD,Rapid City
+HKY, Hickory Regional, NC,Hickory
+VIS, Visalia Municipal, CA,Visalia
+FMN, Four Corners Regional, NM,Farmington
+LNY, Lanai Airport, HI,Lanai
+MKK, Molokai, HI,Hoolehua
+ILE, Skylark Field, TX,Killeen
+SKA, Fairchild AFB, WA,Spokane
+CBM, Columbus AFB, MS,Columbus
+DUT, Unalaska Airport, AK,Unalaska

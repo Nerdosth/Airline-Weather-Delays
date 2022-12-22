@@ -1,36 +1,36 @@
-,carrier_name,carrier_code
-0,Endeavor Air Inc.,9E
-1,American Airlines Inc.,AA
-2,Alaska Airlines Inc.,AS
-3,JetBlue Airways,B6
-4,Delta Air Lines Inc.,DL
-5,Frontier Airlines Inc.,F9
-6,Allegiant Air,G4
-7,Hawaiian Airlines Inc.,HA
-8,Envoy Air,MQ
-9,Spirit Air Lines,NK
-10,PSA Airlines Inc.,OH
-11,SkyWest Airlines Inc.,OO
-12,Horizon Air,QX
-13,United Air Lines Inc.,UA
-14,Southwest Airlines Co.,WN
-15,Mesa Airlines Inc.,YV
-16,Republic Airline,YX
-17,ExpressJet Airlines LLC,EV
-18,ExpressJet Airlines Inc.,EV
-19,Virgin America,VX
-20,US Airways Inc.,US
-21,AirTran Airways Corporation,FL
-22,American Eagle Airlines Inc.,MQ
-23,Pinnacle Airlines Inc.,9E
-24,Atlantic Southeast Airlines,EV
-25,ExpressJet Airlines Inc.,XE
-26,Continental Air Lines Inc.,CO
-27,Comair Inc.,OH
-28,Northwest Airlines Inc.,NW
-29,Aloha Airlines Inc.,AQ
-30,ATA Airlines d/b/a ATA,TZ
-31,ExpressJet Airlines Inc.,RU
-32,Independence Air,DH
-33,America West Airlines Inc.,HP
-34,Atlantic Coast Airlines,DH
+carrier_name,carrier_code
+Endeavor Air Inc.,9E
+American Airlines Inc.,AA
+Alaska Airlines Inc.,AS
+JetBlue Airways,B6
+Delta Air Lines Inc.,DL
+Frontier Airlines Inc.,F9
+Allegiant Air,G4
+Hawaiian Airlines Inc.,HA
+Envoy Air,MQ
+Spirit Air Lines,NK
+PSA Airlines Inc.,OH
+SkyWest Airlines Inc.,OO
+Horizon Air,QX
+United Air Lines Inc.,UA
+Southwest Airlines Co.,WN
+Mesa Airlines Inc.,YV
+Republic Airline,YX
+ExpressJet Airlines LLC,EV
+ExpressJet Airlines Inc.,EV
+Virgin America,VX
+US Airways Inc.,US
+AirTran Airways Corporation,FL
+American Eagle Airlines Inc.,MQ
+Pinnacle Airlines Inc.,9E
+Atlantic Southeast Airlines,EV
+ExpressJet Airlines Inc.,XE
+Continental Air Lines Inc.,CO
+Comair Inc.,OH
+Northwest Airlines Inc.,NW
+Aloha Airlines Inc.,AQ
+ATA Airlines d/b/a ATA,TZ
+ExpressJet Airlines Inc.,RU
+Independence Air,DH
+America West Airlines Inc.,HP
+Atlantic Coast Airlines,DH
