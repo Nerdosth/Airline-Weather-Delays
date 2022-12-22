@@ -7,9 +7,9 @@ As new employees at a travel agency, we have been asked to create a database tha
 
 ## Limitations : 
 
-1. The initial goal was to use an API to pull historical weather data. Upon further research, this method was cost prohivitive and not within scope of the project. 
+1. The initial goal was to use an API to pull historical weather data. Upon further research, this method was cost prohibitive and not within the project's scope.
 
-2. To pivot, we found a weather events database on kaggle with airport code data but learned the airport codes were not for International or Regional but rather small local airports only. 
+2. To pivot, we found a weather events database on Kaggle with airport code data. Still, we learned the airport codes were not for International or Regional but for small local airports. We could have used the city location but determined that it would be an unreliable method for analysis.
 
 
 ## Data Sources: 
