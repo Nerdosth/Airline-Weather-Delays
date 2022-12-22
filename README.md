@@ -29,7 +29,7 @@ Split out City, State, and Airport name from the original airport_name column.
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/76061893/209042317-0788e66b-65f2-49c9-a324-a5eb69acca70.png">
 
 ## Load:
-Loading the four dataframes into the SQL database.
+Loading the four dataframes into the SQL database. Each were loaded in similarly as the image below. Two dataframes, airport and delay_data, required merges with the other dataframes to add keys.
 ![image](https://user-images.githubusercontent.com/111237645/209050346-892e8382-a29b-4462-a3d0-f452a87d13af.png)
 
 ## Queries:
