@@ -28,22 +28,22 @@ Flat File sourced from a Kaggle Data Base:
 In order for us to build out databases to load into a database, we needed to normalize the data. Remove unwanted columns and rename columns.   
 
 The most important normalization was to Split out City, State, and Airport name from the original airport_name column. 
-<img width="722" alt="image" src="https://user-images.githubusercontent.com/76061893/209042317-0788e66b-65f2-49c9-a324-a5eb69acca70.png">
+<img width="722" alt="image" src="https://user-images.githubusercontent.com/76061893/209042317-0788e66b-65f2-49c9-a324-a5eb69acca70.png"><br>
 <img width="260" alt="image" src="https://user-images.githubusercontent.com/76061893/209052270-1d99b141-a7db-4695-a28f-234546ab6458.png">
 
 Then we created a total of four databases.
 
-Airport information: 
+Airport information: <br>
 <img width="748" alt="image" src="https://user-images.githubusercontent.com/76061893/209052458-2bd99f62-b876-4a43-9f6e-de71e5ac78a0.png">
 
-Airline information: 
+Airline information: <br>
 <img width="729" alt="image" src="https://user-images.githubusercontent.com/76061893/209052669-9a31996e-409d-4cf7-babd-2fc4523a6ecd.png">
 
-State information: 
+State information: <br>
 <img width="581" alt="image" src="https://user-images.githubusercontent.com/76061893/209052818-d9685435-e7a3-49b0-9931-ac03234fd493.png">
 
 
-Weather Delay information: 
+Weather Delay information: <br>
 <img width="887" alt="image" src="https://user-images.githubusercontent.com/76061893/209052621-5838252c-b9da-4dc8-ac11-9661fcfc5154.png">
 
 
