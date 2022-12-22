@@ -28,4 +28,15 @@ Flat File sourced from a Kaggle Data Base:
 Split out City, State, and Airport name from the original airport_name column. 
 <img width="722" alt="image" src="https://user-images.githubusercontent.com/76061893/209042317-0788e66b-65f2-49c9-a324-a5eb69acca70.png">
 
+## Load:
+Loading the four dataframes into the SQL database.
+![image](https://user-images.githubusercontent.com/111237645/209050346-892e8382-a29b-4462-a3d0-f452a87d13af.png)
+
+## Queries:
+Examples of queries to run on this database. Simple queries showed that Georgia has the greatest delay counts and Comair is the carrier with the greatest average delay counts.
+
+![Average delay by carrier](https://user-images.githubusercontent.com/111237645/209050570-0b1d5e3d-0035-420d-a5d1-5789e9fa2dd3.png)
+
+![average delay by state](https://user-images.githubusercontent.com/111237645/209050582-407d79f2-7d1e-4fc0-960d-0c170b97c898.png)
+
 
