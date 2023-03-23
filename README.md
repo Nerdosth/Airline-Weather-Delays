@@ -9,17 +9,18 @@ As new employees at a travel agency, we have been asked to create a database tha
 
 1. The initial goal was to use an API to pull historical weather data. Upon further research, this method was cost prohibitive and not within the project's scope.
 
-2. To pivot, we found a weather events database on Kaggle with airport code data. Still, we learned the airport codes were not for International or Regional but for small local airports. We could have used the city location but determined that it would be an unreliable method for analysis.
+2. To pivot, we found a weather events database on Kaggle with airport code data. However, we learned the airport codes were not for International or Regional but for small local airports. We could have used the city location but determined that it would be an unreliable method for analysis. Therefore, we used only one datasource for the purpose of this project. 
 
 
-## Data Sources: 
+## Data Sources Used: 
 
 Airline Delays: 
 https://www.kaggle.com/datasets/ryanjt/airline-delay-cause
 
+
 ## Extraction: 
 
-Flat File sourced from a Kaggle Data Base: 
+CSV sourced from a Kaggle Data Base: 
 
 <img width="1241" alt="image" src="https://user-images.githubusercontent.com/76061893/209041828-47c8d535-3cb5-4eb1-abd5-e3be466d5a41.png">
 
